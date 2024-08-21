@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201173714301",
+    "project_id": "hehechat-f05f8",
+    "storage_bucket": "hehechat-f05f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201173714301:android:f3049b59b4291edd5c3814",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVlnRpsccg_vY8QGC9WS8hGadEGTYMEpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
